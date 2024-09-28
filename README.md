@@ -38,6 +38,8 @@ Method: 1. Quality assurance - focuses on preventing possible defects
 2. Quality control - focuses on identifying defects
 It is important because it ensures the project meets clients standards and ensures customer satisfaction.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the scope allows for effective communication, clarity of proper goals and objectives and proper resource allocation.
+WBS refers to the act of splitting larger tasks into smaller tasks for effectiveness and to allow for collaboration
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?

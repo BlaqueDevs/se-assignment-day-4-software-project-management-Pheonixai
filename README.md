@@ -10,6 +10,12 @@ This can be done by :
 4. Proper resource allocation and chevking for availability to avoid delayed resources which will hinder the project
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Answer : Effective cost control is important because it ensures the project does not go beyong the frame of the budget anf prevents cost overruns.
+Strategies are :1. Detailed budget planning and resource allocation
+2. Calculating the cost variance intermittently
+3. Regular budget monitoring
+
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?

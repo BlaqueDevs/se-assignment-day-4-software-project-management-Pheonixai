@@ -17,8 +17,8 @@ Strategies are :1. Detailed budget planning and resource allocation
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Answer: Agile methodologies involved an iterative approach to a project. Advantages include : 1. It allowed the project to respond to changes.
-2. Allowed for customer feedback 
+Answer: Agile methodologies involved an iterative approach to a project. Advantages include : 1. It allows the project to respond to changes.
+2. Allows for customer feedback 
 3. Encouraged team collaboration as the work could be broken down and each team could work on different sections
 
 Disadvantages include: 
@@ -52,3 +52,4 @@ Answer: These are the features that sets it aparts and makes it more beneficial 
 ## 12. What data is available regarding the market size and growth potential for your software?
 Answer : Trends in the current market, market size analysis and growth rate
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Answer: Understanding market trends helps by aligning its features and messaging with current demands and customer needs. 

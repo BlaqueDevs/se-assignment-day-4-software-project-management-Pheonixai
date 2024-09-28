@@ -41,9 +41,14 @@ It is important because it ensures the project meets clients standards and ensur
 Defining the scope allows for effective communication, clarity of proper goals and objectives and proper resource allocation.
 WBS refers to the act of splitting larger tasks into smaller tasks for effectiveness and to allow for collaboration
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule helps ensure that all activities are organized, deadlines are met, and allows for proper risk management.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Answer: It allows for accurate identification of requirements, avoids unnecessary features, and focuses development efforts on addressing the core problem efficiently.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Answer: By focusing on its purpose, benefits, and the problems it solves.
 ## 11. What are the main features or functionalities that make your software stand out?
+Answer: These are the features that sets it aparts and makes it more beneficial to users than existing solutions or other competitors products.
 ## 12. What data is available regarding the market size and growth potential for your software?
+Answer : Trends in the current market, market size analysis and growth rate
 ## 13. How can understanding market trends inform your software’s positioning and development?

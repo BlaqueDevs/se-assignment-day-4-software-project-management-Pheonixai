@@ -30,7 +30,13 @@ Advantages include: 1. Clear structure of processes
 2. More predictable of its result
 Disadvantages include : Its dofficult to accomodate changes and testing occurs very late in the process
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Answer: Agile method will be more beneficial than waterfall in projects that are dynamic and requires constant interation and customer centric projects e.g an e-commerce platform
+
+Waterfall will be more beneficial in strict projects that require rigidity in its implementation such as government contracts.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Method: 1. Quality assurance - focuses on preventing possible defects
+2. Quality control - focuses on identifying defects
+It is important because it ensures the project meets clients standards and ensures customer satisfaction.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?

@@ -10,7 +10,7 @@ This can be done by :
 4. Proper resource allocation and chevking for availability to avoid delayed resources which will hinder the project
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-Answer : Effective cost control is important because it ensures the project does not go beyong the frame of the budget anf prevents cost overruns.
+Answer : Effective cost control is important because it ensures the project does not go beyong the frame of the budget and prevents cost overruns.
 Strategies are :1. Detailed budget planning and resource allocation
 2. Calculating the cost variance intermittently
 3. Regular budget monitoring
